@@ -9,4 +9,4 @@ while r == 'S':
         else:
             impar +=1
     r = str(input('Quer continuar? [S/N]:')).upper()
-print('Voce digitou {} numeros pares e {} numeros impares!'.format(par, impar))
+print('Vodigitou {} numeros pares e {} numeros impares!'.format(par, impar))
